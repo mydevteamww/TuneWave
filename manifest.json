@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "TuneWave By Cyberversestudios",
+  "description": "Studio:Radio By Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "TuneWave",
+  "name": "Studio:Radio",
   "orientation": "any",
   "scope": "/",
-  "short_name": "TuneWave",
+  "short_name": "Studio:Radio",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -49,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "TuneWave",
+      "name": "Studio:Radio",
       "url": "",
       "description": ""
     }
