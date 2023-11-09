@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Studio:Radio By Nexus Nova Games",
+  "description": "Tune:Wave",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Studio:Radio",
+  "name": "Tune:Wave",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Studio:Radio",
+  "short_name": "Tune:Wave",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -49,7 +49,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Studio:Radio",
+      "name": "Tune:Wave",
       "url": "",
       "description": ""
     }
